@@ -1,0 +1,14 @@
+To run the examples, you need to install Python and several optional modules, especially IPyython. I recommend using the Anaconda Python distribution, which you can download from https://store.continuum.io/cshop/anaconda/, which includes everything you need in a convenient binary installer.
+
+Copy the CodeExamples folder to your computer and navigate to it using a Terminal. Start an IPython notebook server in the CodeExamples folder by typing
+
+ipython notebook --pylab=inline
+
+and a new browser window should open with a list of the code exampls. Click on one of them to open it. You can evaluate Python directly wihtin the opened browswer tab.
+
+Feel free to come see me if you have any difficulties getting it to work, of if you want to find out more about Python - I am always evangelizing the language ;-)
+
+Thanks,
+
+Cliburn
+
